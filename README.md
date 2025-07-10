@@ -1,4 +1,4 @@
-# Beginner's Guide to the Makera Carvera CNC with Fusion 360
+# Beginner's Guide to the Makera Carvera CNC with Fusion360
 Everything needed to get your Carvera CNC up and running with Fusion360
 
 ## What This Guide Includes
