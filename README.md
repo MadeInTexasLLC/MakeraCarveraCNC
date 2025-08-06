@@ -2,10 +2,10 @@
 Everything needed to get your Carvera CNC up and running with Fusion360
 
 ## What This Guide Includes
-1. Essential Bit Set (Extended) Tool Library for Fusion360 [.ods File]
+1. Essential Bit Set (Extended) Tool Library for Fusion360 **[.ods File]**
    - Fusion360 file that includes all of the bits in the Essential Bit Set (Extended) from Makera
    - Ready to download and import into the Tool Library tab in the Manufacture workspace.
-3. Essential Bit Set (Extended) Excel Data for Each Bit [.tools File]
+3. Essential Bit Set (Extended) Excel Data for Each Bit **[.tools File]**
    - Manually gathered data on all of the bits in the Essential Bit Set (Extended) from Makera
    - Reflects data inputted into the .tools file (above).
    - Some data was not given by Makera and had to be manually measured and inputted.
