@@ -9,8 +9,8 @@ Makera Carvera Controller Version: v0.9.11
 
 ## Items Needed:
 1. XYZ Probe (included with Carvera CNC)
-2. Original (Manufacturer's Carvera Controller)
-    - There is a community version of the Carvera Controller, but the work around has not been tested for that Controller
+2. Carvera Controller Software (included on Makera's official website)
+    - There is a community version of the Carvera Controller, but the work around has not been tested for that Controller.
 3. That's it!  
 
 
