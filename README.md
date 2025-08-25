@@ -12,4 +12,6 @@ Everything needed to get your Carvera CNC up and running with Fusion360
    - Some data was not given OR unmeasurable and was inputted via "best-guess" and highlighted in Yellow.
 5. Bit Holder/Organizer for Carvera ATC **[.stl File]**
 6. How-To Guide on Doubling Work Area (Machining Oversized Parts) *(Work-in-Progress...)*
-7. ...
+7. Quick-Start Guide
+   - Basics you need to know to get from CAD to CAM to Finishing
+8. 
