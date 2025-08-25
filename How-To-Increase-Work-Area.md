@@ -22,7 +22,7 @@ Makera Carvera Controller Version: v0.9.11
 
 ### **Step #2 Design your part in Computer-Aided Design (CAD) and process the design in Computer-Aided Manufacturing (CAM)**  
   
-**IMPORTANT**: This specific How-To assumes that you have basic knowledge of CAD/CAM, and will NOT go into depth on best practices  
+- This specific How-To assumes that you have basic knowledge of CAD/CAM, and will NOT go into depth on best practices  
 regarding design. However, I am currently working on a quick-start guide for this, and will eventually include it in this repository.
 
 ### **Step #3 Adhere stock to the Carvera Bed**  
