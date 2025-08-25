@@ -2,8 +2,8 @@
 Makera Carvera Controller Version: v0.9.11
 
 ## Summary:
-*Need more work area to cut your design?  *
-*Don’t want to buy a bigger machine?  *
+*Need more work area to cut your design?*  
+*Don’t want to buy a bigger machine?*  
 **This guide will show you how to effectively double the work area of your Carvera and Carvera Air CNC.**  
 
 ## Items Needed:
