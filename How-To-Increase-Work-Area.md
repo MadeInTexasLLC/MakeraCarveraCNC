@@ -2,9 +2,9 @@
 Makera Carvera Controller Version: v0.9.11
 
 ## Summary:
-Need more work area to cut your design?  
-Don’t want to buy a bigger machine?  
-This guide will show you how to effectively double the work area of your Makera Carvera CNC.  
+*Need more work area to cut your design?  *
+*Don’t want to buy a bigger machine?  *
+**This guide will show you how to effectively double the work area of your Carvera and Carvera Air CNC.**  
 
 ## Items Needed:
 1. XYZ Probe (included with Carvera and Carvera Air CNC)
@@ -13,3 +13,4 @@ This guide will show you how to effectively double the work area of your Makera 
 3. That's it!
 
 **Step #1**
+**Ensure stock falls within dimensions of **360mm (x) * 240mm (y) * 140mm (z)**
