@@ -12,8 +12,8 @@ Makera Carvera Controller Version: v0.9.11
     - There is a community version of the Carvera Controller, but the work around has not been tested for that Controller
 3. That's it!
 
-**Step #1**
-**Ensure stock falls within dimensions of **360mm (x) x 240mm (y) x 140mm (z)**  
+**Step #1**  
+**Ensure stock falls within dimensions of 360mm (x) x 240mm (y) x 140mm (z)**  
 IMPORTANT: Technically, the stock has a maximum dimensional limit of **359mm (x) x 479mm (y) x 140mm (z)**  
         - This is to ensure proper usage of the XYZ Probe, but more on this later.  
         
