@@ -1,4 +1,4 @@
-# How-To Double Your Work Area / Machine Oversized Stock
+# How To Double Your Work Area / Machine Oversized Stock
 Makera Carvera Controller Version: v0.9.11
 
 ## Summary:
