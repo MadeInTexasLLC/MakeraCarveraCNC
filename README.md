@@ -14,4 +14,6 @@ Everything needed to get your Carvera CNC up and running with Fusion360
 6. How-To Guide on Doubling Work Area (Machining Oversized Parts) *(Work-in-Progress...)*
 7. Quick-Start Guide
    - Basics you need to know to get from CAD to CAM to Finishing
-8. 
+8. Workpiece Holding - Liquid Adhesive Comparison
+   - How to choose the right adhesive for your project
+10. 
