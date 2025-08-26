@@ -49,3 +49,5 @@ THAT'S IT!
 Now, you can effectively cut on a larger piece of stock. Granted, you must process the stock twice. 
 Additionally, this guide doesn't show you how to use alignment pins in order to affix your stock accurately for a two-process milling.  
 However, the core principle of this guide can be applied once you learn that workflow.
+
+![test]([test](https://github.com/user-attachments/assets/a88cded6-8fb1-4473-a3da-c7aed03a5e3c))
