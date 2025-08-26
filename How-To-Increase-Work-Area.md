@@ -1,15 +1,14 @@
 # How To Double Your Work Area / Machine Oversized Stock
-Makera Carvera Controller Version: v0.9.11
 
 ## Summary:
 *Need more work area to cut your design?*  
 *Don’t want to buy a bigger machine?*  
-**This guide will show you how to effectively double the work area of your Carvera CNC.**  
+#### **This guide will show you how to effectively double the work area of your Carvera CNC.**  
 *NOTE: This workaround MAY be possible with the Carvera Air CNC, but it has not been explored.*  
 
 ## Items Needed:
 1. XYZ Probe (included with Carvera CNC)
-2. Carvera Controller Software (included on Makera's official website)
+2. Carvera Controller Software: v0.9.11 (included on Makera's official website)
     - There is a community version of the Carvera Controller, but the work around has not been tested for that Controller.
 3. That's it!  
 
