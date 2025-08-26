@@ -33,4 +33,19 @@ regarding design. However, I am currently working on a quick-start guide for thi
               will be created to explore the results of different adhering methods.
               
 ### **Step #4 Use the XYZ Probe on the Top Left of your Stock**  
-#4a. 
+#4a. Orient your XYZ Probe to sit flush against the top LEFT corner of your stock  
+#4b. Move the tool head until it is hovering over the center of the XYZ Probe.
+#4c. Plug in your XYZ Probe and connect the magnetic wire head to the tool head
+#4d. Select your NC Program, and then run the XYZ Probe command from the Config Menu
+#4e. Once the XYZ Probe command has been completed, exit the File window, and reopen the window.
+    - This should now move your work origin accordingly
+#4f. Take note of the current Offset from Anchor 1 that is displayed.
+#4g. Re-Enter the X-Offset and then add 50mm to the Y-Offset and input that number.
+    - The XYZ Probe command touches off in the -Y direction. To correct the machine, and tell it that the edge of the material  
+        is actually in the opposite direction, we must add 50mm to the Y-Offset since that is the Edge-Edge distance of the XYZ Probe
+
+### **Step #5 Run your NC Program and Watch the Fun!**
+THAT'S IT!  
+Now, you can effectively cut on a larger piece of stock. Granted, you must process the stock twice. 
+Additionally, this guide doesn't show you how to use alignment pins in order to affix your stock accurately for a two-process milling.  
+However, the core principle of this guide can be applied once you learn that workflow.
