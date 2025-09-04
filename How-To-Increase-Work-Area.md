@@ -1,19 +1,18 @@
 # How To Double Your Work Area / Machine Oversized Stock
 
-## Summary:
-### *Need more work area to cut your design?*  
-### *Don’t want to buy a bigger machine?*  
-#### **This guide will show you how to effectively double the work area of your Carvera CNC.**  
-*NOTE: This workaround MAY be possible with the Carvera Air CNC, but it has not been explored.*  
+## *Need more work area to cut your design?*  
+## *Don’t want to buy a bigger machine?*  
+### **This guide will show you how to effectively double the work area of your Carvera CNC.**  
+#### *NOTE: This workaround MAY be possible with the Carvera Air CNC, but it has not been explored.*  
 
-## Items Needed:
+## ITEMS NEEDED
 1. XYZ Probe (included with Carvera CNC)
 2. Carvera Controller Software: v0.9.11 (included on Makera's official website)
     - There is a community version of the Carvera Controller, but the work around has not been tested for that Controller, yet.
 3. That's it!  
 
 
-## Process-Breakdown:
+## PROCEDURE
 ### **Step #1 Ensure stock falls within dimensions of 360mm (x) x 240mm (y) x 140mm (z)**  
   
 **IMPORTANT**: Technically, the stock has a maximum dimensional limit of **359mm (x) x 479mm (y) x 140mm (z)**  
@@ -22,10 +21,12 @@
 ### **Step #2 Design your part in Computer-Aided Design (CAD) and process the design in Computer-Aided Manufacturing (CAM)**  
 
 **IMPORTANT**: In your CAM software, ensure that the work origin is set to the TOP LEFT corner of your chosen stock.  
+  
 ![Work-Origin-Example](https://github.com/user-attachments/assets/8015aaa9-6ba9-4b91-81a8-133851de192c)  
   
-**NOTE**: - This specific How-To assumes that you have basic knowledge of CAD/CAM, and will NOT go into depth on best practices  
-regarding design. However, I am currently working on a quick-start guide for this, and will eventually include it in this repository.
+**NOTE**: This specific How-To assumes that you have basic knowledge of CAD/CAM, and will NOT go into depth on best practices
+regarding design.  
+However, I am currently working on a quick-start guide for this, and will eventually include it in this repository.
 
 ### **Step #3 Adhere stock to the Carvera Bed**  
   
@@ -35,7 +36,11 @@ regarding design. However, I am currently working on a quick-start guide for thi
 
 **IMPORTANT**: During Step #3c, use the side of the Automatic Tool Changer (ATC) as a make-shift straight edge to help properly align your stock whilst adhering it to the bed.  
 **NOTE**: This How-To will not go into depth on specific glues/masking tape to use.  
-The most beginner-friendly and budget-friendly option I have found specifically for the Carvera would be to use **Sctoch Beige 2in Wide Masking Tape** and **Gorilla Glue Sticks** with a **Bauer Hot Glue Gun**. Details on this choice will be explored in a separate file in this repository.
+The most beginner-friendly and budget-friendly option I have found specifically for the Carvera would be to use:  
+**Sctoch Beige 2in Wide Masking Tape**  
+**Gorilla Glue Sticks**  
+**Bauer Hot Glue Gun**  
+Details on this choice will be explored in a separate file in this repository.
               
 ### **Step #4 Use the manual XYZ Probe**  
 
@@ -54,7 +59,13 @@ The most beginner-friendly and budget-friendly option I have found specifically 
         is actually in the opposite direction, we must add 50mm to the Y-Offset since that is the Edge-Edge distance of the XYZ Probe
 
 ### **Step #5 THAT'S IT!!!**
-Now, you can effectively cut on a larger piece of stock. Granted, you must process the stock twice. 
-Additionally, this guide doesn't show you how to use alignment pins in order to affix your stock accurately for a two-process milling.  
-However, the core principle of this guide can be applied once you learn that workflow.
+Now, you can run your program to process the 1st half of the stock.  
 
+**IMPORTANT**: Keep the lid of the Carvera **OPEN AT ALL TIMES** during the program. Your stock may run into the inside of the lid if it is closed, which could lead to stock detachment from the bed.  
+  
+**NOTE**: Ensure that the dust collection is turned on and functioning properly to ensure minimal spread of particulates. Using a particulate filtering mask while staying next to the machine during operation is reccomended.  
+
+## OTHER CONSIDERATIONS  
+  
+1. You will have to process the stock twice if your design calls for it. Once the first pass has been completed, rotate your stock 180 degrees along the Z-Axis and repeat steps #3 - #5.  
+2. This guide does not address the use of Alignment Pins. Using Alignment Pins is the proper way to ensure that your workpiece is oriented correctly for your NC Program, and you can learn more via [Austin Shaner's Fusion 350 Tutorial](https://www.youtube.com/watch?v=VPMvnzmuTOw&list=PL6PhF5oGQvMYJliRKBzRqKd98M4RR_gr1) on YouTube! This is a very beginner-friendly course and one I would reccomend you watch if it's your first time with CNC. It's the one that I used personally to understand Fusion360's CAM.  
