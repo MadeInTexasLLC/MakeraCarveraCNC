@@ -1,8 +1,8 @@
 # How To Double Your Work Area / Machine Oversized Stock
 
 ## Summary:
-###*Need more work area to cut your design?*  
-###*Don’t want to buy a bigger machine?*  
+### *Need more work area to cut your design?*  
+### *Don’t want to buy a bigger machine?*  
 #### **This guide will show you how to effectively double the work area of your Carvera CNC.**  
 *NOTE: This workaround MAY be possible with the Carvera Air CNC, but it has not been explored.*  
 
@@ -21,7 +21,9 @@
 
 ### **Step #2 Design your part in Computer-Aided Design (CAD) and process the design in Computer-Aided Manufacturing (CAM)**  
 
-**IMPORTANT**: In your CAM software, ensure that the work origin is set to the TOP LEFT corner of your chosen stock.
+**IMPORTANT**: In your CAM software, ensure that the work origin is set to the TOP LEFT corner of your chosen stock.  
+![Work-Origin-Example](https://github.com/user-attachments/assets/8015aaa9-6ba9-4b91-81a8-133851de192c)  
+  
 **NOTE**: - This specific How-To assumes that you have basic knowledge of CAD/CAM, and will NOT go into depth on best practices  
 regarding design. However, I am currently working on a quick-start guide for this, and will eventually include it in this repository.
 
@@ -32,9 +34,13 @@ regarding design. However, I am currently working on a quick-start guide for thi
 - Step #3c: Align the masking tape placed on the stock to the masking tape placed on the bed, and then sandwich the glue between the two.
 
 **IMPORTANT**: During Step #3c, use the side of the Automatic Tool Changer (ATC) as a make-shift straight edge to help properly align your stock whilst adhering it to the bed.  
-**NOTE**: This How-To will not go into depth on specific glues/masking tape to use. The most beginner-friendly and budget-friendly option I have experienced, coupled with the auto-leveling capabiltiies of the Carvera, I have chosen to use **Sctoch Beige 2in Wide Masking Tape** and **Gorilla Glue Sticks** with a **Bauer Hot Glue Gun**. Details on this choice will be explored in a separate file in this repository.
+**NOTE**: This How-To will not go into depth on specific glues/masking tape to use.  
+The most beginner-friendly and budget-friendly option I have found specifically for the Carvera would be to use **Sctoch Beige 2in Wide Masking Tape** and **Gorilla Glue Sticks** with a **Bauer Hot Glue Gun**. Details on this choice will be explored in a separate file in this repository.
               
 ### **Step #4 Use the manual XYZ Probe**  
+
+[START HERE](https://www.youtube.com/watch?v=yNCbZI0ndpA&list=PL7zu0ucQCuYRTigCJ4nqRrI0TIhcHHbZl&index=8) if you've never used the XYZ Probe before, then return to Step #4a.
+
 - Step #4a: Connect and orient your XYZ Probe to sit flush against the top LEFT corner of your stock.  
 - Step #4b: Move the tool head (with the correct tool) until it is hovering over the center of the XYZ Probe.
 - Step #4c: Connect the magnetic wire head to the tool head.
@@ -52,6 +58,3 @@ Now, you can effectively cut on a larger piece of stock. Granted, you must proce
 Additionally, this guide doesn't show you how to use alignment pins in order to affix your stock accurately for a two-process milling.  
 However, the core principle of this guide can be applied once you learn that workflow.
 
-asdfasdf
-
-![CNC-bit-naming-diagram](https://github.com/user-attachments/assets/a88cded6-8fb1-4473-a3da-c7aed03a5e3c)
