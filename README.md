@@ -14,7 +14,7 @@
 ### 3. Bit Holder/Organizer for Carvera ATC **[.stl File]**
    - A bit tube holder/organizer that slots into the Automatic Tool Changer (ATC) of the Carvera.  
    - Enchances ease of tracking and swapping of bits.
-### 4. How-To Guide on Doubling Work Area (Machining Oversized Parts) on the Carvera CNC
+### 4. How-To Guide on Doubling Work Area (Machining Oversized Parts) on the Carvera CNC (*work-in-progress* ***)
    - A step-by-step guide on how to increase the area in which to cut your designs.
    - No additional tools needed.
 ### 5. Quick-Start Guide (*work-in-progress* ***)
