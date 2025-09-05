@@ -1,5 +1,5 @@
-# Beginner's Guide to the Makera Carvera CNC with Fusion360
-### Everything needed to get your Carvera CNC up and running with Fusion360
+# Beginner's Guide to the Makera Carvera CNC
+### Everything needed to get your Carvera CNC up and running
 
 ## What This Guide Includes
 ### 1. Essential Bit Set (Extended) Tool Library for Fusion360 **[.tools File]**
